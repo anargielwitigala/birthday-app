@@ -180,17 +180,17 @@ with tab3:
     
     st.markdown('<div class="message-box">', unsafe_allow_html=True)
     st.markdown('<div class="author">📝 2018 - When It All Began</div>', unsafe_allow_html=True)
-    st.write("That very first conversation in 2018 changed everything. We didn't know then that we'd become as close as we are now. From that first moment, there was just something special — a connection that felt natural and real.")
+    st.write("That very first conversation in 2018 changed everything. We didn't know then that we'd become as close as we are now. From that first moment, there was just something special, a connection that felt natural and real.")
     st.markdown('</div>', unsafe_allow_html=True)
     
     st.markdown('<div class="message-box">', unsafe_allow_html=True)
     st.markdown('<div class="author">💙 The Distance & The Bond</div>', unsafe_allow_html=True)
-    st.write("Distance has never been able to break what we have. Every call, every message, every time you visit Sri Lanka — those moments remind me why our friendship is so precious. We've learned that real friendship doesn't need constant physical presence; it thrives on genuine care and effort. And girl, you've always put in the effort.")
+    st.write("Distance has never been able to break what we have. Every call, every message, every time you visit Sri Lanka, those moments remind me why our friendship is so precious. We've learned that real friendship doesn't need constant physical presence; it thrives on genuine care and effort. And girl, you've always put in the effort.")
     st.markdown('</div>', unsafe_allow_html=True)
     
     st.markdown('<div class="message-box">', unsafe_allow_html=True)
     st.markdown('<div class="author">🎂 Growing Up Together</div>', unsafe_allow_html=True)
-    st.write("From 12-year-old you to 21-year-old you — I've had the privilege of watching you grow into an incredible woman. I've seen you overcome challenges, chase your dreams, and become someone you're genuinely proud of. And honestly, I'm so incredibly proud of you too.")
+    st.write("From 12-year-old you to 21-year-old you, I've had the privilege of watching you grow into an incredible woman. I've seen you overcome challenges, chase your dreams, and become someone you're genuinely proud of. And honestly, I'm so incredibly proud of you too.")
     st.markdown('</div>', unsafe_allow_html=True)
 
 # Footer
