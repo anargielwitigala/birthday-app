@@ -106,7 +106,7 @@ st.markdown("""
 # Header
 st.markdown("""
 <div class="header-container">
-    <div class="header-title">🎉 LOOK WHO'S 21! 🎂</div>
+    <div class="header-title">🎉 HAPPY 21ST NESI 🎂</div>
     <div class="header-subtitle">✨ A celebration of you, from your bestie ✨</div>
 </div>
 """, unsafe_allow_html=True)
@@ -138,11 +138,11 @@ with tab1:
     st.write("")
     st.write("All the amazing memories we've shared, and missing each other after every call, have brought us closer with time. You are nothing but the best friend I could ever ask for. I miss you the most, Nesi. 💙")
     st.write("")
-    st.write("We only meet a few times every year when you come to Sri Lanka, but I truly value those little moments we spend together. It's only then that I feel like I'm actually with someone I genuinely love as a friend — someone I truly care for. Those moments are everything to me.")
+    st.write("We only meet a few times every year when you come to Sri Lanka, but I truly value those little moments we spend together. It's only then that I feel like I'm actually with someone I genuinely love as a friend, someone I truly care for. Those moments are everything to me.")
     st.write("")
-    st.write("I hope we always remain as close friends and be there for each other no matter what life throws our way. You ALWAYS know that I'm just one call away. For any problem, any issue, any time you need my opinion or just someone to listen — I'm always there for you. And I know you're there for me too. That means the world to me.")
+    st.write("I hope we always remain as close friends and be there for each other no matter what life throws our way. You ALWAYS know that I'm just one call away. For any problem, any issue, any time you need my opinion or just someone to listen, I'm always there for you. And I know you're there for me too. That means the world to me.")
     st.write("")
-    st.write("I'm so happy that you're living the life you always wanted, surrounded by people who love and care for you. But don't ever forget the girl back home! 😂 I'll always be counting down the days until we meet again — hopefully in December or January. I'm eagerly waiting to see my best friend again.")
+    st.write("I'm so happy that you're living the life you always wanted, surrounded by people who love and care for you. But don't ever forget the girl back home! 😂 I'll always be counting down the days until we meet again, hopefully in December or January. I'm eagerly waiting to see my best friend again.")
     st.write("")
     st.write("I hope this year is definitely one for the books, and welcome to adulthood! I wish that everything you hope and pray for comes true, because you deserve absolutely everything and so much more. You're going to do amazing things, and I can't wait to see you shine even brighter.")
     st.write("")
