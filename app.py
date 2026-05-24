@@ -138,7 +138,7 @@ with tab1:
     st.write("")
     st.write("All the amazing memories we've shared, and missing each other after every call, have brought us closer with time. You are nothing but the best friend I could ever ask for. I miss you the most, Nesi. 💙")
     st.write("")
-    st.write("We only meet a few times every year when you come to Sri Lanka, but I truly value those little moments we spend together. It's only then that I feel like I'm actually with someone I genuinely love as a friend, someone I truly care for. Those moments are everything to me.")
+    st.write("For the past few years, we only meet a few times when you come to Sri Lanka, but I truly value those little moments we spend together. It's only then that I feel like I'm actually with someone I genuinely love as a friend, someone I truly care for. Those moments are everything to me.")
     st.write("")
     st.write("I hope we always remain as close friends and be there for each other no matter what life throws our way. You ALWAYS know that I'm just one call away. For any problem, any issue, any time you need my opinion or just someone to listen, I'm always there for you. And I know you're there for me too. That means the world to me.")
     st.write("")
